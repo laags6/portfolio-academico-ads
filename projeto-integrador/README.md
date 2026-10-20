@@ -1,8 +1,15 @@
-# Projeto Integrador (PI): Ponti
+<div align="center">
 
+  # Projeto Integrador (PI): Ponti
+
+  <img src="https://github.com/laags6/portfolio-academico-ads/blob/main/projeto-integrador/Ponti-banner.png" width="500" />
+ </div>
+ 
+ ---
+ 
 | Metadado | Valor |
 |---|---|
-| **Projeto** | Ponti — Plataforma de Match Startups & Mentores |
+| **Projeto** | Ponti: Plataforma de Match Startups & Mentores |
 | **Tipo** | Em grupo |
 | **Meu papel** | Designer da equipe (protótipo no Figma) e front-end em Angular |
 | **Semestre** | 2026.2 |
@@ -20,7 +27,7 @@ Fui responsável pelo design da interface, com protótipo de baixa e alta fideli
 
 ## Protótipo
 
-...
+<img src="https://github.com/laags6/portfolio-academico-ads/blob/main/projeto-integrador/Ponti.png"/>
 
 ## Repositório
 
@@ -29,5 +36,4 @@ Fui responsável pelo design da interface, com protótipo de baixa e alta fideli
 ## Competências desenvolvidas
 ...
 
-
-[🏠 Voltar para o início](../README.md)
+[ << 🏠 Voltar para o início](../README.md)
