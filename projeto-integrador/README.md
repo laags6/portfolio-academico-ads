@@ -14,7 +14,7 @@
 | **Meu papel** | Designer da equipe (protótipo no Figma) e front-end em Angular |
 | **Semestre** | 2026.2 |
 | **Palavras-chave** | startups, mentoria, match, UX/UI, Figma, Angular, LGPD |
-| **Relacionado a** | [UE Full Stack](../ue-full-stack/), [Verificação e Validação de Software](../verificacao-validacao-software/), [Empreendedorismo](../empreendedorismo/) [gestao-informacao/](gestao-informacao/), [Governança em TI](../governanca-ti/) |
+| **Relacionado a** | [UE Full Stack](../ue-full-stack/), [Verificação e Validação de Software](../verificacao-validacao-software/), [Empreendedorismo](../empreendedorismo/),[gestao-informacao/](gestao-informacao/), [Governança em TI](../governanca-ti/) |
 
 ## Sobre o projeto
 A Ponti é uma plataforma de match bidirecional entre startups em estágio inicial (idealização e validação) e mentores. Hoje, quem empreende depende de eventos presenciais, indicação informal e redes genéricas para encontrar um mentor compatível. A plataforma cria um canal dedicado onde os dois lados podem buscar, filtrar e validar o encaixe antes do primeiro contato.
